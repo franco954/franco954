@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franco Nuñez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **franconunez500@gmail.com**
 
-- ⚡ Fun fact **I'm a big Starcraft fan**
+- ⚡ Fun fact **I'm a big Warcraft fan**
 
 
 <h3 align="left">Languages and Tools:</h3>
