@@ -11,3 +11,7 @@
   <a href="https://es.reactjs.org/" target="_blank"> <img alt="react" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> </a>
    <a href="https://getbootstrap.com/" target="_blank"> <img alt="bootstrap" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </a>
 </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franco954&show_icons=true&locale=en&layout=compact" alt="franco954" /></p>
