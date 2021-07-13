@@ -15,7 +15,7 @@
                 <a className="icon m-2" href="https://sass-lang.com/" target="_blank" rel="noreferrer">
                     <img alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> </a>
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franco954&show_icons=true&locale=en&layout=compact" alt="franco954" /></p>
 
 
 
