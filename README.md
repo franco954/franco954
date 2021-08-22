@@ -1,16 +1,46 @@
-<h1>Hi 👋, I'm Franco Nuñez</h1>
-<h3>A frontend developer from Argentina</h3>
+<h1>Franco Alejandro Nuñez</h1><p>A frontend developer from Argentina</p>
 
-- 🌱 I’m currently learning **React js**
+## 📖 About me
+- 🌱 I’m currently learning **The ReactJS ecosystem, TypeScript and NodeJS**
+- 🤝 I’m looking to collaborate on **Web Development** projects
+- 💬 Ask me about **Software development, history and sports.**
 
-- 📫 How to reach me **franconunez500@gmail.com**
+### 🙋‍ Connect with me:
+<p align="left">
+  
+<a href="mailto:franconunez500@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&color=e05d44" alt="gmail"/></a>
+<a href="https://linkedin.com/in/franco954" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Franco Alejandro Nuñez"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franco954&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 👨‍💻 Languages and Tools:
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> <a href="https://www.github.com/" target="_blank"> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="linux"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"> <img src="https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript"/> </a>
+<a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" alt="React"/> </a>
+<a href="https://www.ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> </a>
+</p>
+  
+### 📈 Github Stats:
+<p align="center">
+<a href="https://github.com/franco954">
+<a href="https://github.com/franco954">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=franco954&layout=compact&langs_count=8&theme=dracula" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/franco954">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=franco954&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
+</a>
+</p>
+
+
+<!--
+[[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franco954&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franco954&show_icons=true&theme=radical)
 
-
-
+](url)](url)
+-->
 
 <!--
 
