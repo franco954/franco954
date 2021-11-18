@@ -20,10 +20,10 @@
   
 ### 📈 Github Stats:
 <p align="center">
-<a href="https://github.com/franco954">
+[<a href="https://github.com/franco954">
 <a href="https://github.com/franco954">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=franco954&layout=compact&langs_count=8&theme=dracula" />
-</a>
+</a>](url)
 <br/>
 <br/>
 <a href="https://github.com/franco954">
