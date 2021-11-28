@@ -21,12 +21,12 @@
 ### 📈 Github Stats:
 <p align="center">
 
- <!--
+ 
 <a href="https://github.com/franco954">
 <a href="https://github.com/franco954">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=franco954&layout=compact&langs_count=8&theme=dracula" />
 </a>
--->
+
 <a href="https://github.com/franco954">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=franco954&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
 </a>
