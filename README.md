@@ -1,7 +1,7 @@
 <h1>Franco Alejandro Nuñez</h1><p>A frontend developer from Argentina</p>
 
 ## 📖 About me
-- 🌱 I’m currently learning **The ReactJS ecosystem, TypeScript and NodeJS**
+- 🌱 I’m currently learning **PHP**
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, history and sports.**
 
