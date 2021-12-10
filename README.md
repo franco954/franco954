@@ -19,7 +19,7 @@
 </p>
   
 ### 📈 Github Stats:
-<p align="center">
+<p align="left">
 
  
 
@@ -28,7 +28,7 @@
 </a>
     </p>
 
-  <p align="center">
+  <p align="left">
   <a href="https://github.com/franco954">
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franco954&theme=radical&layout=compact" />
 </a>
