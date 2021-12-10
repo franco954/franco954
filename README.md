@@ -31,7 +31,7 @@
   
   <p align="center">
   <a href="https://github.com/franco954">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franco954&theme=radical&layout=compact" />
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franco954&theme=radical&layout=compact" />
 </a>
    </p>
   
