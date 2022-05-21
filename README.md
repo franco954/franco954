@@ -24,7 +24,7 @@
  
 
 <a href="https://github.com/franco954">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=franco954&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
+<img width="50%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franco954&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)" />
 </a>
     </p>
 
