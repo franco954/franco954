@@ -24,13 +24,13 @@
  
 
 <a href="https://github.com/franco954">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=franco954&show_icons=true&locale=en&layout=compact&theme=react&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=franco954&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
 </a>
     </p>
 
   <p align="left">
   <a href="https://github.com/franco954">
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franco954&theme=react&layout=compact" />
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franco954&theme=codeSTACKr" />
 </a>
    </p>
   
