@@ -6,16 +6,16 @@
 </div>
 
 <div>
-<p>📌JavaScript </p>
-<p>📌React.Js</p>
-<p>📌Next.Js</p>
-<p>📌Node.Js </p>
-<p>📌Express.js</p>
-<p>📌BBDD like MySQL and MongoDB</p>
-<p>📌Typescript</p>
-<p>📌Some CSS frameworks like Bootstrap, Material UI and Materialize</p>
-<p>📌Agile Methodologies</p>
-<p>📌Git/ Github</p>
+📌JavaScript <br>
+📌React.Js <br>
+📌Next.Js <br>
+📌Node.Js <br>
+📌Express.js <br>
+📌BBDD like MySQL and MongoDB <br>
+📌Typescript <br>
+📌Some CSS frameworks like Bootstrap, Material UI and Materialize <br>
+📌Agile Methodologies<br>
+📌Git/ Github<br>
 </div>
 
 <p align="left">
