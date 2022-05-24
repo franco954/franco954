@@ -3,16 +3,17 @@
 
 ### I'm a Fullstack Developer from Argentina and i'm focused on the following technologies:
 
-📌JavaScript
-📌React.Js
-📌Next.Js
-📌Node.Js 
-📌Express.js
-📌BBDD like MySQL and MongoDB
-📌Typescript
-📌Some CSS frameworks like Bootstrap, Material UI and Materialize
-📌Agile Methodologies
-📌Git/ Github
+<p> 📌JavaScript </p>
+
+<p>📌React.Js</p>
+<p>📌Next.Js</p>
+<p>📌Node.Js </p>
+<p>📌Express.js</p>
+<p>📌BBDD like MySQL and MongoDB</p>
+<p>📌Typescript</p>
+<p>📌Some CSS frameworks like Bootstrap, Material UI and Materialize</p>
+<p>📌Agile Methodologies</p>
+<p>📌Git/ Github</p>
 
 
  
