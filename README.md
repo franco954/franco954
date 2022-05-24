@@ -1,4 +1,4 @@
-<h1>Franco Alejandro Nuñez</h1><h3>FullStack Developer</h3>
+<h1>Franco Alejandro Núñez</h1><h3>FullStack Developer</h3>
 
 ### 🙋‍ Connect with me:
 <p align="left">
