@@ -6,7 +6,7 @@
 </div>
 
 <div>
-<p> 📌JavaScript </p>
+<p>📌JavaScript </p>
 <p>📌React.Js</p>
 <p>📌Next.Js</p>
 <p>📌Node.Js </p>
@@ -18,16 +18,22 @@
 <p>📌Git/ Github</p>
 </div>
 
- 
-### 📈 Github Stats:
 <p align="left">
-
- 
-
 <a href="https://github.com/franco954">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=franco954&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
 </a>
-    </p>
+</p>
+
+### Contact me!
+
+📌 Linkedin Profile: https://www.linkedin.com/in/franco954/ 
+<br>
+📌 Email: franconunez500@gmail.com
+
+
+
+
+
 
 
 
