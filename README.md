@@ -1,9 +1,10 @@
 <h1 >Franco Alejandro Núñez</h1>
-<h3 >FullStack Developer</h3>
 
 <div>
-<p>I'm a Fullstack Developer from Argentina and i'm focused on the following technologies:</p>
+<h3>I'm a Fullstack Developer from Argentina</h3>
 </div>
+
+###  Technologies:
 
 <div>
 📌JavaScript <br>
@@ -15,8 +16,9 @@
 📌Typescript <br>
 📌Some CSS frameworks like Bootstrap, Material UI and Materialize <br>
 📌Agile Methodologies<br>
-📌Git/ Github<br>
+📌Git/ Github
 </div>
+<br>
 
 <p align="left">
 <a href="https://github.com/franco954">
