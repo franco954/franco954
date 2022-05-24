@@ -1,8 +1,9 @@
 <h1 align="center">Franco Alejandro Núñez</h1>
 <h4 align="center">FullStack Developer</h4>
 
-### I'm a Fullstack Developer from Argentina and i'm focused on the following technologies:
-
+<div align="center">
+<p>I'm a Fullstack Developer from Argentina and i'm focused on the following technologies:</p>
+</div>
 <p> 📌JavaScript </p>
 
 <p>📌React.Js</p>
