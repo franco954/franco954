@@ -1,11 +1,12 @@
 <h1 align="center">Franco Alejandro Núñez</h1>
 <h4 align="center">FullStack Developer</h4>
 
-<div align="center">
+<div align="left">
 <p>I'm a Fullstack Developer from Argentina and i'm focused on the following technologies:</p>
 </div>
-<p> 📌JavaScript </p>
 
+<div display="flex">
+<p> 📌JavaScript </p>
 <p>📌React.Js</p>
 <p>📌Next.Js</p>
 <p>📌Node.Js </p>
@@ -15,7 +16,7 @@
 <p>📌Some CSS frameworks like Bootstrap, Material UI and Materialize</p>
 <p>📌Agile Methodologies</p>
 <p>📌Git/ Github</p>
-
+</div>
 
  
 ### 📈 Github Stats:
