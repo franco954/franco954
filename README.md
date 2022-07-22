@@ -8,15 +8,17 @@
 
 <div>
 📌JavaScript <br>
+📌TypeScript <br>
 📌React.Js <br>
 📌Next.Js <br>
 📌Node.Js <br>
 📌Express.js <br>
-📌BBDD like MySQL and MongoDB <br>
-📌Typescript <br>
-📌Some CSS frameworks like Bootstrap, Material UI and Materialize <br>
+📌MySQL <br>
+📌MongoDB <br>
+📌Bootstrap, Material UI and Materialize <br>
 📌Agile Methodologies<br>
 📌Git/ Github
+📌Jenkins
 </div>
 <br>
 
