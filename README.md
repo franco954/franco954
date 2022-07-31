@@ -17,7 +17,7 @@
 📌MongoDB <br>
 📌Bootstrap, Material UI and Materialize <br>
 📌Agile Methodologies<br>
-📌Git/ Github
+📌Git/ Github<br>
 📌Jenkins
 </div>
 <br>
