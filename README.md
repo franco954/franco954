@@ -1,12 +1,9 @@
-<h1 >Franco Alejandro Núñez</h1>
+<h1>Franco Alejandro Nuñez</h1>
 
 <div>
-<h3>I'm a Fullstack Developer from Argentina</h3>
-</div>
-
-###  Technologies:
-
-<p>
+<h2>Fullstack Developer MERN</h2>
+    
+    <p>
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Figma-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -23,19 +20,29 @@
     <img src="https://img.shields.io/badge/-Bootstrap-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
  </p>
 
-<br>
-
-<p align="left">
-<a href="https://github.com/franco954">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=franco954&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
-</a>
+<p>
+I'm software developer from Buenos Aires, Argentina, a young apassionate and full of ambitions, ideas and dreams. Im searching new challanges that make me increase experience and knowledge. I love working on a team where the feedback with my parthers allow each growp up. 
 </p>
+    
+### Do you want contact me?:
+ <p>
+  <a href="mailto:nunezfrancoalejandro1@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/franco954/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+    
+</div>
 
-### Contact me!
+###  Technologies:
 
-📌 Linkedin Profile: https://www.linkedin.com/in/franco954/ 
-<br>
-📌 Email: franconunez500@gmail.com
+
+ 
+ 
+ 
+
+
+
+
+
 
 
 
