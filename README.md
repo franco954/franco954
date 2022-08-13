@@ -1,21 +1,7 @@
 <h1>Franco Alejandro Nuñez</h1>
 
-<div>
-<h2>Fullstack Developer MERN</h2>
-    
 
-
-<p>
-I'm software developer from Buenos Aires, Argentina, a young apassionate and full of ambitions, ideas and dreams. Im searching new challanges that make me increase experience and knowledge. I love working on a team where the feedback with my parthers allow each growp up. 
-</p>
-    
-### Do you want contact me?:
- <p>
-  <a href="mailto:nunezfrancoalejandro1@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/franco954/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-    
-</div>
+<h4>Fullstack Developer MERN</h4>
 
 ###  Technologies:
 
@@ -35,6 +21,22 @@ I'm software developer from Buenos Aires, Argentina, a young apassionate and ful
     <img src="https://img.shields.io/badge/-TypeScript-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bootstrap-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
  </p>
+
+
+<p>
+I'm software developer from Buenos Aires, Argentina, a young apassionate and full of ambitions, ideas and dreams. Im searching new challanges that make me increase experience and knowledge. I love working on a team where the feedback with my parthers allow each growp up. 
+</p>
+    
+### Do you want contact me?
+
+ <p>
+  <a href="mailto:nunezfrancoalejandro1@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/franco954/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+    
+
+
+
  
  
  
