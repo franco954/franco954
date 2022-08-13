@@ -3,7 +3,6 @@
 
 <h3>Fullstack Developer MERN</h3>
 
-<br>
 
 
 
