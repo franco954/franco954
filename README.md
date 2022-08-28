@@ -29,7 +29,7 @@
 ### Who i am?
 
 <p>
-I'm software developer from Buenos Aires, Argentina, a young apassionate and full of ambitions, ideas and dreams. Im searching new challanges that make me improve my experience and knowledge. I love working on a team where the feedback with my parthers allow each growp up. 
+I'm software developer from Buenos Aires, Argentina, a young passionate and full of ambitions, ideas and dreams. I'm searching new challenges that make me improve my experience and knowledge. I love working on a team where the feedback with my partners allow each grow up. 
 </p>
     
 ### Do you want contact me?
