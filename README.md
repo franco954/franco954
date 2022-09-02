@@ -29,7 +29,7 @@
 ### Who i am?
 
 <p>
-I'm a software developer from Buenos Aires, Argentina. A young passionate and full of ambitions, ideas and dreams. I'm searching new challenges that make me improve my experience and knowledge. I love working on a team where the feedback with my partners allow each increase our skills.
+Hello i'm Franco Nuñez and i'm 22 years old. Currently i'm working on like fullstack developer at software factory company. I was born in Buenos Aires, Argentina. I think of myself as a young man full of dreams, ideas and ambitions to fulfill. I'm searching new challenges that make me improve my experience and knowledge. I love working at a team where the feedback with my partners allow each increase our skills.
 </p>
     
 ### Do you want contact me?
