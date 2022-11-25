@@ -29,7 +29,13 @@
 ### Who i am?
 
 <p>
-Hello i'm Franco Nuñez and i'm 22 years old. Currently i'm working on like fullstack developer at software factory company. I was born in Buenos Aires, Argentina. I think of myself as a young man full of dreams, ideas and ambitions to fulfill. I'm searching new challenges that make me improve my experience and knowledge. I love working at a team where the feedback with my partners allow each increase our skills.
+Hi 😁, i'm Franco Alejandro Nuñez, 23 years old, student of software engineer and web programmer.
+
+I'm from Buenos Aires, Argentina. Since 2020 I started working at tech world, currently working on such as fullstack developer at software factory. My technology stack is React + Node and actually i do my first steps in React native.
+
+I think of myself as a person full of dreams, ideas and ambitions to fulfill. I love working at a team where the feedback with my partners allow each increase our skills. Always I'm searching new challenges that make me improve my experience and knowledge.
+
+If you wanna talk to me don't think twice, send me a message! 👀
 </p>
     
 ### Do you want contact me?
