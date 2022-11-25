@@ -38,7 +38,7 @@ I think of myself as a person full of dreams, ideas and ambitions to fulfill. I 
 If you wanna talk to me don't think twice, send me a message! 👀
 </p>
     
-### Do you want contact me?
+### Contact me
 
  <p>
   <a href="mailto:nunezfrancoalejandro1@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
