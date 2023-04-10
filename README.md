@@ -29,13 +29,12 @@
 ### Who i am?
 
 <p>
-Hi 😁, i'm Franco Alejandro Nuñez, 23 years old, student of software engineer and web programmer.
+Hi, i'm Franco Alejandro Nuñez, 23 years old, student of software engineer and web programmer.
 
 I'm from Buenos Aires, Argentina. Since 2020 I started working at tech world, currently working on such as DevOps Engineer.
 
 I think of myself as a person full of dreams, ideas and ambitions to fulfill. I love working at a team where the feedback with my partners allow each increase our skills. Always I'm searching new challenges that make me improve my experience and knowledge.
 
-Send me a message! 
 </p>
     
 ### Contact me
