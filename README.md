@@ -26,10 +26,9 @@
  </p>
 
 
-### Who i am?
-
+### Hey there! 😁
 <p>
-Hey there! 😁
+
 
 I'm Franco Alejandro Nuñez, a 23-year-old 👨‍💻 software engineer and web programmer based in Buenos Aires, Argentina 🇦🇷. I specialize in React and Node and have been working in the tech industry since 2020. 
 I'm a highly motivated individual with a passion for learning and constantly improving my skills 🚀. I enjoy working collaboratively with my peers and receiving feedback to help me grow 👥.
