@@ -30,7 +30,7 @@
 
 👋 I'm Franco Alejandro Nuñez, a passionate 23-year-old web programmer based in Buenos Aires, Argentina 🇦🇷. With a specialization in the MERN stack, I have been actively contributing to the tech industry since 2020, currently working as a DevOps Engineer. I'm a highly motivated individual with a passion for learning and constantly improving my skills 🚀. I enjoy working collaboratively with my peers and receiving feedback to help me grow 👥.
 
-You can also view my online resume to learn more about my skills and experience: 📝💼 https://franconunezresume.netlify.app/
+
 
 </p>
     
