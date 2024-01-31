@@ -28,7 +28,9 @@
 <p>
 
 
-👋 I'm Franco Alejandro Nuñez, a passionate 24-year-old web programmer based in Buenos Aires, Argentina 🇦🇷. With a specialization in the MERN stack, I have been actively contributing to the tech industry since 2020, currently working as a DevOps Engineer. I'm a highly motivated individual with a passion for learning and constantly improving my skills 🚀. I enjoy working collaboratively with my peers and receiving feedback to help me grow 👥.
+I'm Franco Alejandro Nuñez, a 24-year-old Software Developer based in Buenos Aires, Argentina 🇦🇷, specializing in the MERN stack. I've transitioned from a DevOps Engineer to my current role as a Technology Architect, shaping innovative solutions for the digital landscape.
+
+Passionate about continual growth 🚀, I thrive on collaborative work and value constructive feedback for personal and professional development 👥.
 
 
 
