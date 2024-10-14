@@ -28,9 +28,7 @@
 <p>
 
 
-I'm Franco Alejandro Nuñez, a 24-year-old Software Engineer based in Buenos Aires, Argentina 🇦🇷, specializing in the MERN stack. I've transitioned from a DevOps Engineer to my current role as a Technology Architect, shaping innovative solutions for the digital landscape.
-
-Passionate about continual growth 🚀, I thrive on collaborative work and value constructive feedback for personal and professional development 👥.
+I'm Franco Nuñez, a 24-year-old Devops Engineer based in Buenos Aires, Argentina 🇦🇷. Passionate about technology and always looking for new challenges.
 
 
 
