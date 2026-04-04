@@ -72,18 +72,6 @@ Fullstack:
   Backend:       Node.js · Express · NestJS
   Bases datos:   MongoDB · MySQL
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franco954&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franco954&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
 ---
 
 ## 🏆 Certificaciones
