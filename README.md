@@ -37,8 +37,8 @@ I'm Franco Nuñez, a 24-year-old Devops Engineer based in Buenos Aires, Argentin
 ### Contact me
 
  <p>
-  <a href="mailto:nunezfrancoalejandro1@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/franco954/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+📧 nunezfrancoalejandro1@gmail.com
+📞 +54 11 2878-0357
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
