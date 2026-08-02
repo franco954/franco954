@@ -77,6 +77,7 @@ Fullstack:
 ## 🏆 Certificaciones
 
 - ☁️ **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/48bf25e0-250e-4945-a689-ebb3550ddcde/linked_in?t=ss00bq)** — Amazon Web Services
+- ☁️ **[AWS Certified Solutions Architech Associate](https://www.credly.com/badges/22499178-c936-4687-b10b-3d88a43ec3eb/public_url)** — Amazon Web Services
 
 ---
 
