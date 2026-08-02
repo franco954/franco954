@@ -16,7 +16,7 @@
 
 Hola! Soy **Franco**, DevOps Engineer con **5 años de experiencia** en la industria IT, vivo en **Buenos Aires, Argentina 🇦🇷**.
 
-Certificado en **AWS Cloud Practitioner**, con foco en diseño y gestión de infraestructura escalable y segura. Me apasiona la automatización y mejorar la resiliencia de sistemas productivos.
+Certificado en **AWS Solutions Architech Associate**, con foco en diseño y gestión de infraestructura escalable y segura. Me apasiona la automatización y mejorar la resiliencia de sistemas productivos.
 
 Cuento además con base sólida como **Fullstack Developer (MERN)**, lo que me permite entender el ciclo de vida completo del software y colaborar de forma efectiva con equipos de desarrollo.
 
